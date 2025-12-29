@@ -12,12 +12,14 @@ email: pgw1126@naver.com
 🥈 어느 정도 능숙  
 🥉 사용해 본 적 있음
 ```
+<br>
 
 ## Programming Languages  
 * C  🥇  
 * C++ 🥈  
 * Java 🥈  
 * Python 🥉
+<br>
 
 
 ## Technologies
