@@ -28,13 +28,16 @@ email: pgw1126@naver.com
 * Wireshark 🥈  
 * Nmap 🥉
 
-```2```
+
 ## Projects  
 ### 네트워크 프로토콜 분석 [GitHub Link](https://github.com/gunwoopyo/networkProtocolAnalysisReport)  
 * 인턴 시작 시 주요 네트워크 프로토콜을 복습한 보고서입니다.
 
 
 ### 학점 관리 프로그램   [GitHub Link](https://github.com/gunwoopyo/simpleStudentManagement)  
+* 인턴 1차 프로젝트입니다.
+* 학생 조회, 학생 등록 및 삭제, 과목 조회, 과목 등록 및 삭제, 학점 등록 및 삭제
+  
 ### 네트워크 장비 정보 수집 서비스 개발  [GitHub Link](https://github.com/gunwoopyo/networkDeviceInformationCollection)  
 ### AI 기반 사용자 맞춤 정신 건강 관리 앱 개발  [GitHub Link](https://github.com/gunwoopyo/mentalHealthManagementApp)  
 
