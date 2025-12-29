@@ -2,7 +2,8 @@
 
 표건우  
 tel: 010-2089-3270  
-email: pgw1126@naver.com
+email: pgw1126@naver.com  
+<br>
 
 ## Proficiency
 개발 경험이 있는 프로그래밍 언어 및 프레임워크입니다. 능숙도에 따라 기재되어 있습니다.  
