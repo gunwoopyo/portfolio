@@ -62,7 +62,7 @@ email: pgw1126@naver.com
 * 자료구조 설계 A+  
 * 컴퓨터 구조 A+  
 * 데이터베이스 A  
-* 객체지향 프로그래밍(Java) A+  
+* 객체지향 프로그래밍(```Java```) A+  
 * IT Enginnering A+  
 * 고급R프로그래밍 A+
  
