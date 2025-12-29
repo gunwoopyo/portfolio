@@ -32,8 +32,7 @@ Nmap 🥉
 네트워크 프로토콜 분석  [바로가기](https://github.com/gunwoopyo/networkProtocolAnalysisReport)  
 학점 관리 프로그램  [바로가기](https://github.com/gunwoopyo/simpleStudentManagement)  
 네트워크 장비 정보 수집 서비스 개발 [바로가기](https://github.com/gunwoopyo/networkDeviceInformationCollection)  
-AI 기반 사용자 맞춤 정신 건강 관리 앱 개발
-
+AI 기반 사용자 맞춤 정신 건강 관리 앱 개발 [바로가기](https://github.com/gunwoopyo/mentalHealthManagementApp)  
 
 
 
