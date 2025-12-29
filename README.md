@@ -28,7 +28,7 @@ Nmap 🥉
 networkProtocolAnalysisReport
 
 ## Projects  
-네트워크 프로토콜 분석 [네트워크 분석 레포지토리 바로가기](https://github.com/gunwoopyo/networkProtocolAnalysisReport)  
+네트워크 프로토콜 분석  [바로가기](https://github.com/gunwoopyo/networkProtocolAnalysisReport)  
 학점 관리 프로그램  
 네트워크 장비 정보 수집 서비스 개발  
 AI 기반 사용자 맞춤 정신 건강 관리 앱 개발
