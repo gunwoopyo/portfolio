@@ -23,8 +23,9 @@ email: pgw1126@naver.com
 
 * Linux(Rockey Linux) 🥇  
 * Bash 🥇  
-* Vim 🥇  
-* Wireshark 🥈  
+* Vim 🥇
+* QT 🥈
+* * Wireshark 🥈  
 * Nmap 🥉
 
 
