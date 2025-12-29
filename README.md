@@ -23,10 +23,10 @@ Python 🥉
 
 Linux(Rockey Linux) 🥇  
 Bash 🥇  
-Vim/Nano 🥇  
+Vim 🥇  
 Wireshark 🥈  
 Nmap 🥉
-networkProtocolAnalysisReport
+
 
 ## Projects  
 네트워크 프로토콜 분석  [바로가기](https://github.com/gunwoopyo/networkProtocolAnalysisReport)  
