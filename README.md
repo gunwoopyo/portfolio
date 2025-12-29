@@ -40,6 +40,7 @@ email: pgw1126@naver.com
 * 학생 조회, 학생 등록 및 삭제, 과목 조회, 과목 등록 및 삭제, 학점 등록 및 삭제
   
 ### 네트워크 장비 정보 수집 서비스 개발  [GitHub Link](https://github.com/gunwoopyo/networkDeviceInformationCollection)  
+```#Bash``` ```#C++``` ```#Rockey Linux``` ```#Qt```
 ### AI 기반 사용자 맞춤 정신 건강 관리 앱 개발  [GitHub Link](https://github.com/gunwoopyo/mentalHealthManagementApp)  
 
 
