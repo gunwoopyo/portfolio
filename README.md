@@ -19,7 +19,7 @@ Java 🥈
 Python 🥉
 
 
-## Frameworks / Technologies
+## Technologies
 
 Linux(Rockey Linux) 🥇  
 Bash 🥇  
