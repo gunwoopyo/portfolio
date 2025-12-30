@@ -29,7 +29,6 @@ email: pgw1126@naver.com
 * Vim 🥇
 * QT 🥈
 * Wireshark 🥈  
-* Nmap 🥉
 <br>
 
 
