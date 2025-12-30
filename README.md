@@ -34,6 +34,8 @@ email: pgw1126@naver.com
 
 ## Projects  
 ### 네트워크 프로토콜 분석 [GitHub Link](https://github.com/gunwoopyo/networkProtocolAnalysisReport)  
+```#IP``` ```#TCP``` ```#UDP``` ```#ARP``` ```#ICMP``` ```#DHCP``` ```#SNMP```
+
 * 인턴 시작 시 주요 네트워크 프로토콜을 복습한 보고서입니다.
 <br>
 
