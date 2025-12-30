@@ -44,7 +44,7 @@ email: pgw1126@naver.com
 <br>
 
 ### 네트워크 장비 정보 수집 서비스 개발  [GitHub Link](https://github.com/gunwoopyo/networkDeviceInformationCollection)  
-```#Bash``` ```#C++``` ```#Rockey Linux``` ```#Qt```  
+```#Bash``` ```#C++``` ```#Rockey Linux``` ```#Qt``` ```Net-SNMP Library```
 * 인턴 2차 프로젝트입니다.
 * 게이트웨이 포트 정보 및 상태, BPS(PPS) 트래픽 모니터링, 라우팅 테이블, ARP 테이블 구현
 <br>
