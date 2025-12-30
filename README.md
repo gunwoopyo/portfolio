@@ -40,14 +40,15 @@ email: pgw1126@naver.com
 ### 학점 관리 프로그램   [GitHub Link](https://github.com/gunwoopyo/simpleStudentManagement)  
 ```#C++``` ```#Rockey Linux``` ```#Qt```  
 * 인턴 1차 프로젝트입니다.
-* 학생 조회, 학생 등록 및 삭제, 과목 조회, 과목 등록 및 삭제, 학점 등록 및 삭제
+* Linked List 활용
+* 학생 조회, 학생 등록 및 삭제, 과목 조회, 과목 등록 및 삭제, 학점 조회, 학점 등록 및 삭제 기능 구현.
 <br>
 
 ### 네트워크 장비 정보 수집 서비스 개발  [GitHub Link](https://github.com/gunwoopyo/networkDeviceInformationCollection)  
 ```#Bash``` ```#C++``` ```#Rockey Linux``` ```#Qt``` ```#Net-SNMP Library```
 * 인턴 2차 프로젝트입니다.
 * SNMP 프로토콜 및 멀티스레드 활용
-* 게이트웨이의 포트 정보 및 상태, BPS PPS 트래픽 실시간 수집 및 모니터링, 포트 부하 분석
+* 게이트웨이의 포트 정보 및 상태, BPS(PPS) 트래픽 실시간 수집 및 모니터링, 포트 부하 분석
 * 라우팅 테이블, ARP 테이블 구현
 <br>
 
