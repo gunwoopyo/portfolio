@@ -47,7 +47,7 @@ email: pgw1126@naver.com
 ### 네트워크 장비 정보 수집 서비스 개발  [GitHub Link](https://github.com/gunwoopyo/networkDeviceInformationCollection)  
 ```#Bash``` ```#C++``` ```#Rockey Linux``` ```#Qt``` ```#Net-SNMP Library```
 * 인턴 2차 프로젝트입니다.
-* SNMP 프로토콜 및 멀티스레드 활용
+* SNMP 프로토콜 및 멀티스레드 활용.
 * 게이트웨이의 포트 정보 및 상태, BPS(PPS) 트래픽 실시간 수집 및 모니터링, 포트 부하 분석
 * 라우팅 테이블, ARP 테이블 구현
 <br>
@@ -55,7 +55,7 @@ email: pgw1126@naver.com
 ### AI 기반 사용자 맞춤 정신 건강 관리 앱 개발  [GitHub Link](https://github.com/gunwoopyo/mentalHealthManagementApp)  
 ```#Flutter``` ```#Dart``` ```#Firebase```  
 * 상명대학교 정보통신공학과 캡스톤디자인 프로젝트입니다.
-* 사용자 맞춤 활동 추천 및 정신 건강을 위한 기능 구현
+* 사용자 맞춤 활동 추천 및 정신 건강을 위한 기능 구현.
 * GPT API 및 정신 건강 검사 활용
 
 <br>
