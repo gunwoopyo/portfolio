@@ -78,7 +78,7 @@ email: pgw1126@naver.com
 * IT Enginnering A+  
 * 고급R프로그래밍 A+
 * 무선통신시스템 A+
-* 통신시스템 A
+* 통신시스템 설계 A
 * 신호 및 시스템 A+
 * 미적분학 A+
 <br>
