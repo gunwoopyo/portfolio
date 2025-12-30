@@ -55,7 +55,9 @@ email: pgw1126@naver.com
 ### AI 기반 사용자 맞춤 정신 건강 관리 앱 개발  [GitHub Link](https://github.com/gunwoopyo/mentalHealthManagementApp)  
 ```#Flutter``` ```#Dart``` ```#Firebase```  
 * 상명대학교 정보통신공학과 캡스톤디자인 프로젝트입니다.
-* GPT API 활용, 정신 건강 검사 기능 활용 사용자 맞춤 활동 추천, 정신 건강 위한 부가 기능
+* 사용자 맞춤 활동 추천 및 정신 건강을 위한 기능 구현
+* GPT API 및 정신 건강 검사 활용
+
 <br>
 
 
