@@ -77,6 +77,9 @@ email: pgw1126@naver.com
 * 객체지향 프로그래밍(```Java```) A+  
 * IT Enginnering A+  
 * 고급R프로그래밍 A+
+* 무선통신시스템 A+
+* 통신시스템 A
+* 신호 및 시스템 A+
 <br>
  
 
