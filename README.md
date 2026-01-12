@@ -26,7 +26,7 @@ email: pgw1126@naver.com
 ## Technologies
 
 * Linux(Rockey Linux) 🥇
-* SQL  
+* SQL 🥇  
 * Bash 🥇  
 * Vim 🥇
 * QT 🥈
