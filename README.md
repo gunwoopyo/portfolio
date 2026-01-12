@@ -42,7 +42,7 @@ email: pgw1126@naver.com
 <br>
 
 ### 학점 관리 프로그램   [GitHub Link](https://github.com/gunwoopyo/simpleStudentManagement)  
-```#C++``` ```#Rockey Linux``` ```#Qt```  
+```#C++``` ```#Rockey Linux``` ```#Maria DB``` ```#Qt```  
 * 인턴 1차 프로젝트입니다.
 * Linked List를 통해 Class로 구현
 * 학생 조회, 학생 등록 및 삭제, 과목 조회, 과목 등록 및 삭제, 학점 조회, 학점 등록 및 삭제 기능 구현
