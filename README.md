@@ -16,7 +16,7 @@ email: pgw1126@naver.com
 
 ## Programming Languages  
 * C  🥇  
-* C++ 🥈  
+* C++ 🥇  
 * Java 🥈  
 * Python 🥉
 * Java Script 🥉
