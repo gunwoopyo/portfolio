@@ -18,7 +18,7 @@ email: pgw1126@naver.com
 * C  🥇  
 * C++ 🥇  
 * Java 🥈  
-* Python 🥉
+* Python 🥈  
 * Java Script 🥉
 <br>
 
